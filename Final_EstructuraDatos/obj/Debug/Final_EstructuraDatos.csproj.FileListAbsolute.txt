@@ -1,0 +1,15 @@
+C:\Users\Pablo\Desktop\IES\SEGUNDO\Finales\Estructura de Datos\Final_EstructuraDatos\Final_EstructuraDatos\bin\Debug\Final_EstructuraDatos.exe.config
+C:\Users\Pablo\Desktop\IES\SEGUNDO\Finales\Estructura de Datos\Final_EstructuraDatos\Final_EstructuraDatos\bin\Debug\Final_EstructuraDatos.exe
+C:\Users\Pablo\Desktop\IES\SEGUNDO\Finales\Estructura de Datos\Final_EstructuraDatos\Final_EstructuraDatos\bin\Debug\Final_EstructuraDatos.pdb
+C:\Users\Pablo\Desktop\IES\SEGUNDO\Finales\Estructura de Datos\Final_EstructuraDatos\Final_EstructuraDatos\obj\Debug\Final_EstructuraDatos.csproj.AssemblyReference.cache
+C:\Users\Pablo\Desktop\IES\SEGUNDO\Finales\Estructura de Datos\Final_EstructuraDatos\Final_EstructuraDatos\obj\Debug\Final_EstructuraDatos.FrmPrincipal.resources
+C:\Users\Pablo\Desktop\IES\SEGUNDO\Finales\Estructura de Datos\Final_EstructuraDatos\Final_EstructuraDatos\obj\Debug\Final_EstructuraDatos.Properties.Resources.resources
+C:\Users\Pablo\Desktop\IES\SEGUNDO\Finales\Estructura de Datos\Final_EstructuraDatos\Final_EstructuraDatos\obj\Debug\Final_EstructuraDatos.csproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\IES\SEGUNDO\Finales\Estructura de Datos\Final_EstructuraDatos\Final_EstructuraDatos\obj\Debug\Final_EstructuraDatos.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\IES\SEGUNDO\Finales\Estructura de Datos\Final_EstructuraDatos\Final_EstructuraDatos\obj\Debug\Final_EstructuraDatos.exe
+C:\Users\Pablo\Desktop\IES\SEGUNDO\Finales\Estructura de Datos\Final_EstructuraDatos\Final_EstructuraDatos\obj\Debug\Final_EstructuraDatos.pdb
+C:\Users\Pablo\Desktop\IES\SEGUNDO\Finales\Estructura de Datos\Final_EstructuraDatos\Final_EstructuraDatos\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Pablo\Desktop\IES\SEGUNDO\Finales\Estructura de Datos\Final_EstructuraDatos\Final_EstructuraDatos\obj\Debug\Final_EstructuraDatos.csproj.CopyComplete
+C:\Users\Pablo\Desktop\IES\SEGUNDO\Finales\Estructura de Datos\Final_EstructuraDatos\Final_EstructuraDatos\obj\Debug\Final_EstructuraDatos.FrmProductos.resources
+C:\Users\Pablo\Desktop\IES\SEGUNDO\Finales\Estructura de Datos\Final_EstructuraDatos\Final_EstructuraDatos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pablo\Desktop\IES\SEGUNDO\Finales\Estructura de Datos\Final_EstructuraDatos\Final_EstructuraDatos\bin\Debug\Newtonsoft.Json.xml
