@@ -27,11 +27,11 @@ Requisitos:
         de manera eficiente con las operaciones de agregar, eliminar, mostrar, exportar y buscar
         productos en la lista.
 
-** La aplicacion tiene muchas cosas extras que le sume para un mejor funcionamiento estas son 
+ La aplicacion tiene muchas cosas extras que le sume para un mejor funcionamiento estas son 
       1- Contador y Chart en tiempo real para cantidad de productos y Stock
       2- Simulacion de una base de datos mediante un Archivo Json el cual se lee al abrir la aplicacion y se escribe al cerrarla
         lo que nos da la funcionalidad de una psuedo BD. 
-      3- Cambie la busqueda en ComboBox por una en un TextBox y que se refleja sobre la grilla , dando una funcionalidad mas optima a la busqueda **
+      3- Cambie la busqueda en ComboBox por una en un TextBox y que se refleja sobre la grilla , dando una funcionalidad mas optima a la busqueda 
 
 Tecnologias usadas:
         ● .NET windows forms
